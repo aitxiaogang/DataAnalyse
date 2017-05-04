@@ -71,6 +71,7 @@ public class DataAnalyse {
 	
 	@Test
 	public void testSSS() throws Exception {
+		
 		String string = "(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:java.net.SocketException:SocketClosed";
 		String string2 = "(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:java.net.SocketTimeoutException:Readtimedout";
 		System.out.println(calLike(string, string2));
