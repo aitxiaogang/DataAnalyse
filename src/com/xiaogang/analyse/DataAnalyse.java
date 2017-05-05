@@ -61,9 +61,9 @@ public class DataAnalyse {
 		for (Entry<String, List<String>> entry : entrySet) {
 			List<String> value = entry.getValue();
 			System.out.println(entry.getKey()+":"+value.size());
-			for (String string : value) {
-				System.out.println("                                 "+string);
-			}
+//			for (String string : value) {
+//				System.out.println("                                 "+string);
+//			}
 		}
 	}
 	

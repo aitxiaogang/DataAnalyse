@@ -1,241 +1,299 @@
-(BOSSID:null,PRODUCTID:qwb000000000053)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_31A1_TAEC130CRM1，服务调用出错：TPESVCERR(10):0:0:TPED_SVCTI...
-(BOSSID:null,PRODUCTID:qwb000000000052)失败原因:该用户有在途订单，请稍后再试!ERRID:10626101|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000051)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_31A1_TAEC125CRM1，服务调用出错：TPESVCERR(10):0:0:TPED_SVCTI...
-(BOSSID:null,PRODUCTID:qwb000000000049)失败原因:该用户有在途订单，请稍后再试!ERRID:18534275|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000052)失败原因:该用户有在途订单，请稍后再试!ERRID:17355504|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000052)失败原因:该用户有在途订单，请稍后再试!ERRID:92736790|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000052)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:null,PRODUCTID:qwb000000000050)失败原因:该用户有在途订单，请稍后再试!ERRID:98919543|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000033)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:null,PRODUCTID:qwb000000000033)失败原因:抱歉，没有查到该活动!ERRID:11986504|没有查询到该活动!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:77958723|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:null,PRODUCTID:qwb000000000036)失败原因:抱歉，没有查到该活动!ERRID:24888376|没有查询到该活动!
-(BOSSID:null,PRODUCTID:qwb000000000049)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:12277847|尊敬的客户，由于您参加4G资费合约（18包打38飞享三星级以下）营销活动，故不允许进行...
-(BOSSID:null,PRODUCTID:qwb000000000033)失败原因:该用户有在途订单，请稍后再试!ERRID:32140258|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000033)失败原因:该用户有在途订单，请稍后再试!ERRID:16349231|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000054)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_31A1_TAEC130CRM1，服务调用出错：TPESVCERR(10):0:0:TPED_SVCTI...
-(BOSSID:null,PRODUCTID:qwb000000000049)失败原因:该用户有在途订单，请稍后再试!ERRID:81741880|该用户有在途订单，请稍后再试!
-(BOSSID:ACAZ22308,PRODUCTID:qwc000000000025)失败原因:java.net.SocketException:SocketClosed
-(BOSSID:null,PRODUCTID:qwb000000000049)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_32B1_TBEC118CRM1，服务调用出错：TPESVCERR(10):0:0:TPED_SVCTI...
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:null,PRODUCTID:qwb000000000050)失败原因:抱歉，没有查到该活动!ERRID:17677950|没有查询到该活动!
-(BOSSID:null,PRODUCTID:qwb000000000052)失败原因:抱歉，系统繁忙，请稍后重试!ERRID:73609806|抱歉，系统繁忙，请稍后重试!
-(BOSSID:null,PRODUCTID:qwb000000000049)失败原因:该用户有在途订单，请稍后再试!ERRID:86884798|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000050)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
-(BOSSID:null,PRODUCTID:qwb000000000052)失败原因:该用户有在途订单，请稍后再试!ERRID:32365525|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000049)失败原因:该用户有在途订单，请稍后再试!ERRID:26490740|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000034)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPENOENT(6):0:0:TPED_MINVAL(...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:java.net.SocketTimeoutException:Readtimedout
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:null,PRODUCTID:qwb000000000049)失败原因:该用户有在途订单，请稍后再试!ERRID:38057761|该用户有在途订单，请稍后再试!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:28856263|尊敬的客户，由于您参加成都购终端送积分88营销活动，故不允许进行主资费变更!
-(BOSSID:null,PRODUCTID:qwb000000000051)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
-(BOSSID:null,PRODUCTID:qwb000000000049)失败原因:该用户有在途订单，请稍后再试!ERRID:26999094|该用户有在途订单，请稍后再试!
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:java.net.SocketException:SocketClosed
-(BOSSID:null,PRODUCTID:qwb000000000050)失败原因:该用户有在途订单，请稍后再试!ERRID:16705266|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000050)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
-(BOSSID:null,PRODUCTID:qwb000000000033)失败原因:该用户有在途订单，请稍后再试!ERRID:98895978|该用户有在途订单，请稍后再试!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:48618863|尊敬的客户，由于您参加4G资费合约（18包打38飞享三星级以下）营销活动，故不允许进行...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:20959784|尊敬的客户，由于您参加和包电子券终端活动两年保底38(收入)营销活动，故不允许进行主资...
-(BOSSID:null,PRODUCTID:qwb000000000049)失败原因:该用户有在途订单，请稍后再试!ERRID:19252965|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000050)失败原因:该用户有在途订单，请稍后再试!ERRID:10458488|该用户有在途订单，请稍后再试!
-(BOSSID:null,PRODUCTID:qwb000000000049)失败原因:抱歉，没有查到该活动!ERRID:67010454|没有查询到该活动!
-(BOSSID:null,PRODUCTID:qwb000000000052)失败原因:s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ22308,PRODUCTID:qwc000000000025)失败原因:java.net.SocketException:SocketClosed
-(BOSSID:null,PRODUCTID:qwb000000000051)失败原因:抱歉，没有查到该活动!ERRID:22309029|没有查询到该活动!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:18534156|尊敬的客户，由于您参加百日攻坚终端营销活动（两年）(收入)营销活动，故不允许进行主资费...
-(BOSSID:ACAZ22309,PRODUCTID:qwc000000000026)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:无法获取该错误代码的错误信息，请直接查看明细信息ERRID:95327037|OrderBusiDealerror0
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:27025114|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:17876693|尊敬的客户，由于您参加4G资费合约优化版（88包打138三星级以上）营销活动，故不允许...
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:子产品已超过最大个数限制ERRID:81410575|飞信基础服务已超过最大订购次数1;国内直拨已超过最大订购次数1;短信息已超过最大订购次数1;呼叫...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:47585053|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:62165154|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:java.net.SocketException:SocketClosed
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:18282543|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:64903234|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:51878129|尊敬的客户，由于您参加2016春季营销-4G资费合约（38包打58三星级以下）营销活动...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:18160104|尊敬的客户，由于您参加流量主卡限制158飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:17141313|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:32744713|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:19061704|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:45736599|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:28383729|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:47132864|尊敬的客户，由于您参加电渠4G资费合约（28包打48飞享三星级以下）营销活动，故不允许...
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:22574034|尊敬的客户，由于您参加全省第十一期终端营销活动二库24月(收入)营销活动，故不允许进行...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:12733773|尊敬的客户，由于您参加4G资费合约优化版（58包打88三星级以上）营销活动，故不允许进...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:18968654|尊敬的客户，由于您参加16年达州岁末打二返一（飞享138及以上档）营销活动，故不允许进...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:16745605|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:68754953|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:子产品已超过最大个数限制ERRID:54857164|国内直拨已超过最大订购次数1;短信息已超过最大订购次数1;呼叫转移已超过最大订购次数1;遇忙转移...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:java.net.SocketTimeoutException:Readtimedout
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:48660393|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:40161313|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:69660390|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:61194843|尊敬的客户，由于您参加4G资费合约优化版（88包打138三星级以上）营销活动，故不允许...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:53926503|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:32557023|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:26400422|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，系统繁忙，请稍后重试!ERRID:80971023|pCallESBApi.cpp:407调用[http://10.112.9.136:510...
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:77404505|尊敬的客户，由于您参加全省IPHONE6终端营销活动(收入补贴42%)营销活动，故不允...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:11497030|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:14388033|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:75125774|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:63900663|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:86161051|尊敬的客户，由于您参加18打38（校园版）营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:55273406|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:27570314|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:61011734|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:71656274|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:67232387|尊敬的客户，由于您参加2016年泸州校园区域流量包两年套餐营销活动，故不允许进行主资费...
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:12145373|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:中间件调用错误，请联系系统管理员!ERRID:98805094|TPENOENT-noentryfound
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:25498993|尊敬的客户，由于您参加流量主卡限制88飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:24294584|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:86968726|尊敬的客户，由于您参加2G高流量换机38包打58(24)营销活动，故不允许进行主资费变...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:17862433|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:38119883|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:83411444|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:子产品已超过最大个数限制ERRID:82997646|呼叫保持已超过最大订购次数1;视频通话已超过最大订购次数1;和彩云已超过最大订购次数1;短信息已...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:92179082|尊敬的客户，由于您参加4G资费合约优化版（88包打138三星级以上）营销活动，故不允许...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:22190433|尊敬的客户，由于您参加4G资费合约优化版（88包打138三星级以上）营销活动，故不允许...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:83375494|尊敬的客户，由于您参加流量主卡限制158飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:子产品已超过最大个数限制ERRID:21301368|关机呼叫转已超过最大订购次数1;呼叫保持已超过最大订购次数1;手机邮箱免费版已超过最大订购次数1...
-(BOSSID:ACAZ22309,PRODUCTID:qwc000000000026)失败原因:{$NOTE}ERRID:99364925|用户办理了8M宽带叠加包（魔方S68）不允许变更该主资费，请先退订8M宽带叠加包（魔方S68）后再变更。
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:79733043|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:51469422|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:27902816|尊敬的客户，由于您参加全能魔方58促销活动营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:20828803|尊敬的客户，由于您参加全省移动4G包打促销活动（自采）(收入)营销活动，故不允许进行主...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:40844793|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:84112243|尊敬的客户，由于您参加4G资费合约（18包打38飞享三星级以下）营销活动，故不允许进行...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:14923563|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:70336462|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:16854427|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行!ERRID:65421282|用户[15902852627]存在未竣工的订单行!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:68239393|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:44685432|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:75730904|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:23538263|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:74724594|尊敬的客户，由于您参加百日攻坚终端营销活动（两年）(收入)营销活动，故不允许进行主资费...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:{$NOTE}ERRID:97717745|用户办理了4M宽带叠加包（魔方S48）不允许变更该主资费，请先退订4M宽带叠加包（魔方S48）后再变更。
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:26085533|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:12081353|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ22309,PRODUCTID:qwc000000000026)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:84194682|尊敬的客户，由于您参加流量主卡限制268飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:16906034|尊敬的客户，由于您参加2016二季度营销-4G资费合约（38包打58三星级以下）营销活...
-(BOSSID:ACAZ24919,PRODUCTID:qwc000000000101)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:42772204|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:10362694|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:63590103|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:57943154|尊敬的客户，由于您参加2016春季营销-4G资费合约（88包打138三星级以下）营销活...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:12472424|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:14850343|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:子产品已超过最大个数限制ERRID:91706086|呼叫保持已超过最大订购次数1;遇忙转移已超过最大订购次数1;短信息已超过最大订购次数1;全国漫游...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:57781533|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:16795563|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:45950604|尊敬的客户，由于您参加百日攻坚终端营销活动（两年）(收入)营销活动，故不允许进行主资费...
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:60681910|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:12651763|尊敬的客户，由于您参加4G资费合约优化版（38包打58三星级以上）营销活动，故不允许进...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:54696704|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:33935862|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:85258824|尊敬的客户，由于您参加2016二季度营销-4G资费合约（58包打88三星级以上）营销活...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:16707193|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:93921987|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:14919203|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:41206094|尊敬的客户，由于您参加4G资费合约优化版（58包打88三星级以上）营销活动，故不允许进...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:13666813|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:53579223|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:57140103|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:73964153|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:30965923|尊敬的客户，由于您参加2016年泸州校园区域流量包两年套餐营销活动，故不允许进行主资费...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:17163847|尊敬的客户，由于您参加全能魔方58促销活动_12个月营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:64151994|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:57882104|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:尊敬的客户，暂不符合条件受理条件，请至营业前台查询受理，感谢您的关注ERRID:70937788|抱歉，[流量安心服务]与[全球通wap套餐]绝对互斥...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:84652793|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:76962203|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ22309,PRODUCTID:qwc000000000026)失败原因:无法获取该错误代码的错误信息，请直接查看明细信息ERRID:59956265|utGetStr错误,[RELATION_TYPE]元素不存在!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:56147185|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:90020653|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:13081653|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:26180154|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:47234787|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:11977393|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:81986283|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:70909214|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:34270163|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:85779943|尊敬的客户，由于您参加畅享合约38套餐促销营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:53767536|尊敬的客户，由于您参加百日攻坚终端营销活动（两年）(收入)营销活动，故不允许进行主资费...
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:87247883|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:65319453|尊敬的客户，由于您参加流量主卡限制48飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:11615213|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:31954954|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:10360494|尊敬的客户，由于您参加成都购终端送积分138（24个月）营销活动，故不允许进行主资费变...
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:79469326|尊敬的客户，由于您参加4季度终端营销中高端机型在网24月（201511）(收入)营销活...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:10803544|尊敬的客户，由于您参加流量主卡限制158飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:28352164|尊敬的客户，由于您参加流量主卡限制88飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:88911543|尊敬的客户，由于您参加畅享合约38套餐促销（1年以上）营销活动，故不允许进行主资费变更...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:22945323|尊敬的客户，由于您参加电渠4G资费合约（28包打48飞享三星级以上）营销活动，故不允许...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:90174772|尊敬的客户，由于您参加4G资费合约优化版（58包打88三星级以上）营销活动，故不允许进...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:59870044|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:20378968|尊敬的客户，由于您参加4G资费合约（18包打38飞享三星级以上）营销活动，故不允许进行...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:75603033|尊敬的客户，由于您参加电渠4G资费合约（28包打48飞享三星级以下）营销活动，故不允许...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:31728503|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:90570333|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:24960723|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:30446523|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:92225853|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:58523223|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:14118077|尊敬的客户，由于您参加流量主卡限制88飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:25322263|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:44935174|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:57687844|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:23774063|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:91796884|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:13077073|尊敬的客户，由于您参加区域流量半年包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:46785423|尊敬的客户，由于您参加校园促销（家长）营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:70943527|尊敬的客户，由于您参加4G资费话音促销200（长期）营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:44394002|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:68156502|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:54676594|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:22390445|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:13929564|尊敬的客户，由于您参加南充4G资费送积分（存量38）英黎营销活动，故不允许进行主资费变...
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:74425119|尊敬的客户，由于您参加4G资费合约优化版（88包打138三星级以上）营销活动，故不允许...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:55094144|尊敬的客户，由于您参加3.9元2G流量7天乐营销活动，故资费只能向上迁转!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:34448633|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ22308,PRODUCTID:qwc000000000025)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:72169204|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:14192422|源服务访问点http://10.112.9.76:11900/interfaces/s...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:93389854|尊敬的客户，由于您参加全省第十一期终端营销活动二库24月(收入)营销活动，故不允许进行...
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理!ERRID:18525664|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，服务号码状态不正常，无法受理!ERRID:89779551|抱歉，服务号码状态不正常，无法受理!
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，服务号码状态不正常，无法受理!ERRID:83155201|抱歉，服务号码状态不正常，无法受理!
-(BOSSID:ACAZ22308,PRODUCTID:qwc000000000025)失败原因:抱歉，服务号码状态不正常，无法受理!ERRID:59592672|抱歉，服务号码状态不正常，无法受理!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，服务号码状态不正常，无法受理!ERRID:10996247|抱歉，服务号码状态不正常，无法受理!
-(BOSSID:ACAZ22308,PRODUCTID:qwc000000000025)失败原因:抱歉，服务号码状态不正常，无法受理!ERRID:84111027|抱歉，服务号码状态不正常，无法受理!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，服务号码状态不正常，无法受理!ERRID:14913783|抱歉，服务号码状态不正常，无法受理!
-(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:JSONObject["USER_MSG"]notfound.
-(BOSSID:ACAZ22299,PRODUCTID:qwc000000000052)失败原因:抱歉，服务号码状态不正常，无法受理!ERRID:21852911|抱歉，服务号码状态不正常，无法受理!
-(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，服务号码状态不正常，无法受理!ERRID:35053282|抱歉，服务号码状态不正常，无法受理!
-(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，服务号码状态不正常，无法受理!ERRID:52109129|抱歉，服务号码状态不正常，无法受理!
-(BOSSID:ACAZ22309,PRODUCTID:qwc000000000026)失败原因:抱歉，服务号码状态不正常，无法受理!ERRID:69194072|抱歉，服务号码状态不正常，无法受理!
-(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，服务号码状态不正常，无法受理!ERRID:19872322|抱歉，服务号码状态不正常，无法受理!
-(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:JSONObject["USER_MSG"]notfound.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:20959784|尊敬的客户，由于您参加和包电子券终端活动两年保底38(收入)营销活动，故不允许进行主资...
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，服务号码状态不正常，无法受理！ ERRID:83155201|抱歉，服务号码状态不正常，无法受理！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，服务号码状态不正常，无法受理！ ERRID:89779551|抱歉，服务号码状态不正常，无法受理！
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，服务号码状态不正常，无法受理！ ERRID:35053282|抱歉，服务号码状态不正常，无法受理！
+(BOSSID:null,PRODUCTID:qwb000000000033)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:16349231|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:76962203|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:75603033|尊敬的客户，由于您参加电渠4G资费合约（28包打48飞享三星级以下）营销活动，故不允许...
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:17163847|尊敬的客户，由于您参加全能魔方58促销活动_12个月营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000050)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:16705266|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:10362694|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:40997673|用户[18780276218]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:30247612|用户[18780276218]存在未竣工的订单行！
+(BOSSID:null,PRODUCTID:qwb000000000049)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，服务号码状态不正常，无法受理！ ERRID:10996247|抱歉，服务号码状态不正常，无法受理！
+(BOSSID:null,PRODUCTID:qwb000000000049)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_32B1_TBEC118CRM1，服务调用出错：TPESVCERR(10):0:0:TPED_SVCTI...
+(BOSSID:null,PRODUCTID:qwb000000000049)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:26490740|该用户有在途订单，请稍后再试！
+(BOSSID:null,PRODUCTID:qwb000000000033)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:50099472|该用户有在途订单，请稍后再试！
+(BOSSID:null,PRODUCTID:qwb000000000049)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:81741880|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:86968726|尊敬的客户，由于您参加2G高流量换机38包打58(24)营销活动，故不允许进行主资费变...
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:79469326|尊敬的客户，由于您参加4季度终端营销中高端机型在网24月（201511）(收入)营销活...
+(BOSSID:null,PRODUCTID:qwb000000000049)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:86884798|该用户有在途订单，请稍后再试！
+(BOSSID:null,PRODUCTID:qwb000000000052)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
+(BOSSID:null,PRODUCTID:qwb000000000051)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:77958723|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000050)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:62165154|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000050)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
+(BOSSID:null,PRODUCTID:qwb000000000003)失败 原因: 抱歉，没有查到该活动！ ERRID:23867433|没有查询到该活动！
+(BOSSID:null,PRODUCTID:qwb000000000033)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:11615213|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:42772204|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ22308,PRODUCTID:qwc000000000025)失败原因:java.net.SocketException: Socket Closed
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:null,PRODUCTID:qwb000000000052)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
+(BOSSID:null,PRODUCTID:qwb000000000033)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:32140258|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:24960723|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000053)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
+(BOSSID:null,PRODUCTID:qwb000000000052)失败 原因: 源服务访问点s4035IntCfmDQ,CRM_TEMPLATE_31A1_TAEC134CRM1访问失败拥塞，取消当前请求！|源服务访问点s4035IntC...
+(BOSSID:null,PRODUCTID:qwb000000000003)失败 原因: 抱歉，没有查到该活动！ ERRID:58460978|没有查询到该活动！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:null,PRODUCTID:qwb000000000003)失败 原因: 抱歉，没有查到该活动！ ERRID:79753359|没有查询到该活动！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:16707193|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
+(BOSSID:null,PRODUCTID:qwb000000000003)失败 原因: 抱歉，没有查到该活动！ ERRID:71913686|没有查询到该活动！
+(BOSSID:ACAZ22299,PRODUCTID:qwc000000000052)失败原因:抱歉，服务号码状态不正常，无法受理！ ERRID:21852911|抱歉，服务号码状态不正常，无法受理！
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:84188581|用户[18281783835]存在未竣工的订单行！
+(BOSSID:ACAZ22296,PRODUCTID:qwc000000000049)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:45194805|用户[18302858889]存在未竣工的订单行！
+(BOSSID:null,PRODUCTID:qwb000000000033)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:98895978|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:31954954|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000052)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
+(BOSSID:null,PRODUCTID:qwb000000000052)失败 原因: 抱歉，系统繁忙，请稍后重试！ ERRID:73609806|抱歉，系统繁忙，请稍后重试！
+(BOSSID:ACAZ22299,PRODUCTID:qwc000000000052)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:14898113|用户[15928264560]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:86161051|尊敬的客户，由于您参加18打38（校园版）营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:84652793|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:java.net.SocketTimeoutException: Read timed out
+(BOSSID:ACAZ22308,PRODUCTID:qwc000000000025)失败原因:java.net.SocketException: Socket Closed
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:14118077|尊敬的客户，由于您参加流量主卡限制88飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:53579223|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000054)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A1_TAEC130CRM1，服务调用出错：TPESVCERR(10):0:0:TPED_SVCTI...
+(BOSSID:null,PRODUCTID:qwb000000000051)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:72262444|该用户有在途订单，请稍后再试！
+(BOSSID:null,PRODUCTID:qwb000000000036)失败 原因: 抱歉，没有查到该活动！ ERRID:24888376|没有查询到该活动！
+(BOSSID:null,PRODUCTID:qwb000000000050)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A1_TAEC134CRM1，服务调用出错：TPESVCERR(10):0:0:TPED_SVCTI...
+(BOSSID:null,PRODUCTID:qwb000000000036)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:62716904|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:20828803|尊敬的客户，由于您参加全省移动4G包打促销活动（自采）(收入)营销活动，故不允许进行主...
+(BOSSID:ACAZ22312,PRODUCTID:qwc000000000029)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:93389854|尊敬的客户，由于您参加全省第十一期终端营销活动二库24月(收入)营销活动，故不允许进行...
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:74425119|尊敬的客户，由于您参加4G资费合约优化版（88包打138三星级以上）营销活动，故不允许...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:40161313|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000049)失败 原因: 抱歉，没有查到该活动！ ERRID:67010454|没有查询到该活动！
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:子产品已超过最大个数限制 ERRID:91706086|呼叫保持已超过最大订购次数1;遇忙转移已超过最大订购次数1;短信息已超过最大订购次数1;全国漫游...
+(BOSSID:null,PRODUCTID:qwb000000000052)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:92736790|该用户有在途订单，请稍后再试！
+(BOSSID:null,PRODUCTID:qwb000000000050)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:98919543|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ22309,PRODUCTID:qwc000000000026)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:84194682|尊敬的客户，由于您参加流量主卡限制268飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ22296,PRODUCTID:qwc000000000049)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:81643874|用户[15298044032]存在未竣工的订单行！
+(BOSSID:null,PRODUCTID:qwb000000000036)失败 原因: 无法获取该错误代码的错误信息，请直接查看明细信息 ERRID:60608405|尊敬的用户，你已经参加了类似的合约还未到期，暂不能参加。
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:27570314|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:51469422|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ23312,PRODUCTID:2800200400000030001)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:27426203|用户[15281036145]存在未竣工的订单行！
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:12277847|尊敬的客户，由于您参加4G资费合约（18包打38飞享三星级以下）营销活动，故不允许进行...
+(BOSSID:null,PRODUCTID:qwb000000000051)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A1_TAEC125CRM1，服务调用出错：TPESVCERR(10):0:0:TPED_SVCTI...
+(BOSSID:ACAZ22309,PRODUCTID:qwc000000000026)失败原因:无法获取该错误代码的错误信息，请直接查看明细信息 ERRID:59956265|utGetStr错误,[RELATION_TYPE]元素不存在！
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:26400422|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:47234787|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:尊敬的客户，暂不符合条件受理条件，请至营业前台查询受理，感谢您的关注 ERRID:70937788|抱歉，[流量安心服务]与[全球通wap套餐]绝对互斥...
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:85779943|尊敬的客户，由于您参加畅享合约38套餐促销营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:81986283|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:11497030|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:12081353|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ22308,PRODUCTID:qwc000000000025)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:55273406|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:77404505|尊敬的客户，由于您参加全省IPHONE6终端营销活动(收入补贴42%)营销活动，故不允...
+(BOSSID:null,PRODUCTID:qwb000000000053)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A1_TAEC130CRM1，服务调用出错：TPESVCERR(10):0:0:TPED_SVCTI...
+(BOSSID:ACAZ22296,PRODUCTID:qwc000000000049)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:28237645|用户[15082441732]存在未竣工的订单行！
+(BOSSID:null,PRODUCTID:qwb000000000049)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:18534275|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:51285726|用户[18282105251]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:38119883|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:88911543|尊敬的客户，由于您参加畅享合约38套餐促销（1年以上）营销活动，故不允许进行主资费变更...
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:18282543|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:30965923|尊敬的客户，由于您参加2016年泸州校园区域流量包两年套餐营销活动，故不允许进行主资费...
+(BOSSID:null,PRODUCTID:qwb000000000052)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:10626101|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:17876693|尊敬的客户，由于您参加4G资费合约优化版（88包打138三星级以上）营销活动，故不允许...
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:57140103|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:11977393|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:28383729|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:90570333|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:56147185|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:65319453|尊敬的客户，由于您参加流量主卡限制48飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:子产品已超过最大个数限制 ERRID:81410575|飞信基础服务已超过最大订购次数1;国内直拨已超过最大订购次数1;短信息已超过最大订购次数1;呼叫...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:48618863|尊敬的客户，由于您参加4G资费合约（18包打38飞享三星级以下）营销活动，故不允许进行...
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:41206094|尊敬的客户，由于您参加4G资费合约优化版（58包打88三星级以上）营销活动，故不允许进...
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:18044047|用户[15760226643]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:60991865|用户[15808482857]存在未竣工的订单行！
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:12733773|尊敬的客户，由于您参加4G资费合约优化版（58包打88三星级以上）营销活动，故不允许进...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:28352164|尊敬的客户，由于您参加流量主卡限制88飞享营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000049)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:38057761|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ22309,PRODUCTID:qwc000000000026)失败原因:{$NOTE} ERRID:99364925|用户办理了8M宽带叠加包（魔方S68）不允许变更该主资费，请先退订8M宽带叠加包（魔方S68）后再变更。
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:12651763|尊敬的客户，由于您参加4G资费合约优化版（38包打58三星级以上）营销活动，故不允许进...
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:14192422|源服务访问点http://10.112.9.76:11900/interfaces/s...
+(BOSSID:ACAZ23312,PRODUCTID:2800200400000030001)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:39547546|用户[13990235364]存在未竣工的订单行！
+(BOSSID:null,PRODUCTID:qwb000000000050)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:10458488|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:83411444|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:64151994|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:14058995|用户[13547832380]存在未竣工的订单行！
+(BOSSID:ACAZ22310,PRODUCTID:qwc000000000027)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:99027034|用户[13408668406]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:31728503|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:12145373|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:56384756|用户[15182337167]存在未竣工的订单行！
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:14388033|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:25322263|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:无法获取该错误代码的错误信息，请直接查看明细信息 ERRID:95327037|OrderBusiDeal error0
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:22945323|尊敬的客户，由于您参加电渠4G资费合约（28包打48飞享三星级以上）营销活动，故不允许...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:23538263|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:10618282|用户[15881099279]存在未竣工的订单行！
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:51152456|用户[13568246642]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:46785423|尊敬的客户，由于您参加校园促销（家长）营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:28856263|尊敬的客户，由于您参加成都购终端送积分88营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:75125774|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:{$NOTE} ERRID:97717745|用户办理了4M宽带叠加包（魔方S48）不允许变更该主资费，请先退订4M宽带叠加包（魔方S48）后再变更。
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:23774063|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:61011734|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:18534156|尊敬的客户，由于您参加百日攻坚终端营销活动（两年）(收入)营销活动，故不允许进行主资费...
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:10360494|尊敬的客户，由于您参加成都购终端送积分138（24个月）营销活动，故不允许进行主资费变...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:20378968|尊敬的客户，由于您参加4G资费合约（18包打38飞享三星级以上）营销活动，故不允许进行...
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:72169204|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ22301,PRODUCTID:qwc000000000054)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:85949660|用户[15283467684]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:57867492|用户[15183662507]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:22390445|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:53926503|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000050)失败 原因: 抱歉，没有查到该活动！ ERRID:17677950|没有查询到该活动！
+(BOSSID:null,PRODUCTID:qwb000000000049)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPESYSTEM(12):0:0:TPED_MINVA...
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:63590103|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:68156502|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000052)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:17355504|该用户有在途订单，请稍后再试！
+(BOSSID:null,PRODUCTID:qwb000000000036)失败 原因: null
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:70336462|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000052)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:32365525|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ23312,PRODUCTID:2800200400000030001)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:70738433|用户[15281036145]存在未竣工的订单行！
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:57943154|尊敬的客户，由于您参加2016春季营销-4G资费合约（88包打138三星级以下）营销活...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:57781533|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:92179082|尊敬的客户，由于您参加4G资费合约优化版（88包打138三星级以上）营销活动，故不允许...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:79733043|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:27902816|尊敬的客户，由于您参加全能魔方58促销活动营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ22301,PRODUCTID:qwc000000000054)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:33130245|用户[15284831815]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:13666813|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:87247883|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，服务号码状态不正常，无法受理！ ERRID:14913783|抱歉，服务号码状态不正常，无法受理！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:null,PRODUCTID:qwb000000000033)失败 原因: 无法获取该错误代码的错误信息，请直接查看明细信息 ERRID:94672431|尊敬的用户，你已经参加了类似的合约还未到期，暂不能参加。
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:73964153|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:69660390|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:14850343|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:22190433|尊敬的客户，由于您参加4G资费合约优化版（88包打138三星级以上）营销活动，故不允许...
+(BOSSID:null,PRODUCTID:qwb000000000034)失败 原因: s4035IntCfmDQ,CRM_TEMPLATE_31A2_TAEC128CRM2，服务调用出错：TPENOENT(6):0:0:TPED_MINVAL(...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:14919203|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:14337861|用户[15982786104]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:44394002|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:33935862|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:51878129|尊敬的客户，由于您参加2016春季营销-4G资费合约（38包打58三星级以下）营销活动...
+(BOSSID:null,PRODUCTID:qwb000000000050)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:98219340|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:17862433|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:90174772|尊敬的客户，由于您参加4G资费合约优化版（58包打88三星级以上）营销活动，故不允许进...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:44685432|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000049)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:26999094|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:90020653|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:61194843|尊敬的客户，由于您参加4G资费合约优化版（88包打138三星级以上）营销活动，故不允许...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:47585053|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:47132864|尊敬的客户，由于您参加电渠4G资费合约（28包打48飞享三星级以下）营销活动，故不允许...
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:44935174|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:17141313|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:25498993|尊敬的客户，由于您参加流量主卡限制88飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:抱歉，服务号码状态不正常，无法受理！ ERRID:19872322|抱歉，服务号码状态不正常，无法受理！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:10959773|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:13081653|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:子产品已超过最大个数限制 ERRID:82997646|呼叫保持已超过最大订购次数1;视频通话已超过最大订购次数1;和彩云已超过最大订购次数1;短信息已...
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:18968654|尊敬的客户，由于您参加16年达州岁末打二返一（飞享138及以上档）营销活动，故不允许进...
+(BOSSID:ACAZ22308,PRODUCTID:qwc000000000025)失败原因:抱歉，服务号码状态不正常，无法受理！ ERRID:59592672|抱歉，服务号码状态不正常，无法受理！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:32557023|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:34270163|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:16745605|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:63900663|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:19534833|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000051)失败 原因: null
+(BOSSID:ACAZ23312,PRODUCTID:2800200400000030001)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:84816637|用户[18781944625]存在未竣工的订单行！
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:48660393|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ22299,PRODUCTID:qwc000000000052)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:20574026|用户[18784350079]存在未竣工的订单行！
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:53767536|尊敬的客户，由于您参加百日攻坚终端营销活动（两年）(收入)营销活动，故不允许进行主资费...
+(BOSSID:ACAZ22296,PRODUCTID:qwc000000000049)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:79643531|用户[15884831019]存在未竣工的订单行！
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:68754953|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ22296,PRODUCTID:qwc000000000049)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:82529263|用户[15008340050]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:16854427|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:16795563|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:null,PRODUCTID:qwb000000000033)失败 原因: 抱歉，没有查到该活动！ ERRID:11986504|没有查询到该活动！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:中间件调用错误，请联系系统管理员！ ERRID:98805094|TPENOENT - no entry found
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:54696704|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:32744713|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:84112243|尊敬的客户，由于您参加4G资费合约（18包打38飞享三星级以下）营销活动，故不允许进行...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:55094144|尊敬的客户，由于您参加3.9元2G流量7天乐营销活动，故资费只能向上迁转!
+(BOSSID:null,PRODUCTID:qwb000000000051)失败 原因: 抱歉，没有查到该活动！ ERRID:22309029|没有查询到该活动！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:70943527|尊敬的客户，由于您参加4G资费话音促销200（长期）营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:14923563|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:java.net.SocketException: Socket Closed
+(BOSSID:null,PRODUCTID:qwb000000000049)失败 原因: 该用户有在途订单，请稍后再试！ ERRID:19252965|该用户有在途订单，请稍后再试！
+(BOSSID:ACAZ23312,PRODUCTID:2800200400000030001)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:97412838|用户[18782230308]存在未竣工的订单行！
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:67232387|尊敬的客户，由于您参加2016年泸州校园区域流量包两年套餐营销活动，故不允许进行主资费...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:45950604|尊敬的客户，由于您参加百日攻坚终端营销活动（两年）(收入)营销活动，故不允许进行主资费...
+(BOSSID:ACAZ22308,PRODUCTID:qwc000000000025)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:58825985|用户[18384712315]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:中间件调用错误，请联系系统管理员！ ERRID:69019425|TPENOENT - no entry found
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:19061704|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:19933203|用户[15775111896]存在未竣工的订单行！
+(BOSSID:null,PRODUCTID:qwb000000000052)失败 原因: CRM_31A1未找到池对应的中间件信息|CRM_31A1未找到池对应的中间件信息
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:75730904|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:子产品已超过最大个数限制 ERRID:54857164|国内直拨已超过最大订购次数1;短信息已超过最大订购次数1;呼叫转移已超过最大订购次数1;遇忙转移...
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:13077073|尊敬的客户，由于您参加区域流量半年包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:58523223|尊敬的客户，由于您参加用4G套餐、10M宽带/电视送一年营销活动，故不允许进行主资费变...
+(BOSSID:ACAZ22309,PRODUCTID:qwc000000000026)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:12472424|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:70909214|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:68239393|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:71656274|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:95589257|用户[13658181887]存在未竣工的订单行！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:91796884|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:74724594|尊敬的客户，由于您参加百日攻坚终端营销活动（两年）(收入)营销活动，故不允许进行主资费...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:54676594|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:34448633|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:85258824|尊敬的客户，由于您参加2016二季度营销-4G资费合约（58包打88三星级以上）营销活...
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:26085533|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:93921987|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:子产品已超过最大个数限制 ERRID:21301368|关机呼叫转已超过最大订购次数1;呼叫保持已超过最大订购次数1;手机邮箱免费版已超过最大订购次数1...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:24294584|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，服务号码状态不正常，无法受理！ ERRID:52109129|抱歉，服务号码状态不正常，无法受理！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:18160104|尊敬的客户，由于您参加流量主卡限制158飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:40844793|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ22309,PRODUCTID:qwc000000000026)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:java.net.SocketException: Socket Closed
+(BOSSID:ACAZ22296,PRODUCTID:qwc000000000049)失败原因:抱歉，您已经订购了，并且新订购的产品和已有的产品时间上有交叉！ ERRID:69099760|抱歉，您已经订购了[4G上网流量30元包月]，并且新订购的...
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:10803544|尊敬的客户，由于您参加流量主卡限制158飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:用户[{$SERVICE_NO}]存在未竣工的订单行！ ERRID:65421282|用户[15902852627]存在未竣工的订单行！
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:27025114|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:26180154|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:java.net.SocketTimeoutException: Read timed out
+(BOSSID:ACAZ22308,PRODUCTID:qwc000000000025)失败原因:抱歉，服务号码状态不正常，无法受理！ ERRID:84111027|抱歉，服务号码状态不正常，无法受理！
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，系统繁忙，请稍后重试！ ERRID:80971023|pCallESBApi.cpp:407 调用[http://10.112.9.136:510...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:13929564|尊敬的客户，由于您参加南充4G资费送积分（存量38）英黎营销活动，故不允许进行主资费变...
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:22574034|尊敬的客户，由于您参加全省第十一期终端营销活动二库24月(收入)营销活动，故不允许进行...
+(BOSSID:ACAZ22309,PRODUCTID:qwc000000000026)失败原因:抱歉，服务号码状态不正常，无法受理！ ERRID:69194072|抱歉，服务号码状态不正常，无法受理！
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:16906034|尊敬的客户，由于您参加2016二季度营销-4G资费合约（38包打58三星级以下）营销活...
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:18525664|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:30446523|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:64903234|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:45736599|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25126,PRODUCTID:qwc000000000100)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:59870044|尊敬的客户，由于您参加流量主卡限制38飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:60681910|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25477,PRODUCTID:qwc000000000102)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:57882104|尊敬的客户，由于您参加流量主卡限制58飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25128,PRODUCTID:qwc000000000023)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:83375494|尊敬的客户，由于您参加流量主卡限制158飞享营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ25478,PRODUCTID:qwc000000000103)失败原因:抱歉，用户存在后项限制不允许办理！ ERRID:57687844|尊敬的客户，由于您参加10元1G流量包营销活动，故不允许进行主资费变更!
+(BOSSID:ACAZ25129,PRODUCTID:qwc000000000024)失败原因:JSONObject["USER_MSG"] not found.
+(BOSSID:ACAZ24919,PRODUCTID:qwc000000000101)失败原因:JSONObject["USER_MSG"] not found.
