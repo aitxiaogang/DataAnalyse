@@ -1,7 +1,5 @@
 package com.xiaogang.analyse;
 
-import static org.junit.Assert.*;
-
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
